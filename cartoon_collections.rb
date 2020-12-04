@@ -20,7 +20,7 @@ end
 
 def find_the_cheese(array)
 
-  if array.include? == (cheese_types)
+  if cheese_types.include? 
     true
   else
     false
